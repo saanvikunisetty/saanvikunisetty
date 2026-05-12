@@ -93,7 +93,7 @@ A species distribution model using Maximum Entropy (MaxEnt) to predict the sprea
 
 ## 📫 Contact me:
 
-If you would like to chat, reach out ot me at...
+If you would like to chat, reach out to me at...
 
 - 📧 **[saanvik@illinois.edu](mailto:saanvik@illinois.edu)**
 - 💼 **[LinkedIn](https://linkedin.com/in/saanvi-kunisetty)**
